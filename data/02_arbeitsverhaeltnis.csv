@@ -1,0 +1,501 @@
+PK,Beruf,Branche,Beschaeftigungsgrad,Lohn,AG_ID,Eintrittsdatum
+1,Software Engineer,Industrie,50,62128,8,2025-06-30
+2,Software Engineer,Finanzen,90,135352,18,2019-12-01
+3,UX Designer,Gesundheitswesen,90,98919,20,2018-03-28
+4,Sales Manager,Versicherung,70,147904,7,2025-04-10
+5,Sales Manager,Industrie,50,81789,22,2019-06-02
+6,Jurist,Retail,80,167482,17,2016-05-01
+7,Projektleiter,Industrie,100,164514,8,2018-04-03
+8,Data Analyst,Versicherung,100,149093,23,2012-03-09
+9,Finanzanalyst,Versicherung,40,51545,22,2017-09-18
+10,Sachbearbeiter,Versicherung,50,45303,7,2017-06-24
+11,Sales Manager,Retail,50,61371,13,2018-06-28
+12,Finanzanalyst,Industrie,70,89973,2,2018-09-01
+13,UX Designer,Pharma,90,115272,13,2022-09-07
+14,Finanzanalyst,Bau,100,134760,22,2017-05-23
+15,Sales Manager,Industrie,40,65004,9,2021-01-22
+16,Sales Manager,Industrie,50,91246,12,2013-05-04
+17,Projektleiter,Pharma,60,70923,9,2014-11-23
+18,Jurist,IT,100,227549,22,2018-03-02
+19,Pflegefachperson,Finanzen,80,74123,12,2020-02-17
+20,UX Designer,Bau,90,100233,13,2020-12-22
+21,HR Manager,Retail,100,132237,22,2019-05-13
+22,Sales Manager,IT,40,60910,25,2022-05-23
+23,Sachbearbeiter,Versicherung,40,32317,15,2025-09-19
+24,Maschineningenieur,Versicherung,90,125118,14,2021-06-28
+25,Jurist,IT,50,91259,16,2012-10-08
+26,Projektleiter,Retail,90,88696,7,2012-05-28
+27,Jurist,Industrie,100,218176,8,2016-03-13
+28,UX Designer,Gesundheitswesen,70,73768,3,2015-07-14
+29,Projektleiter,Pharma,100,179874,23,2024-01-07
+30,Sachbearbeiter,Industrie,80,62623,16,2019-02-20
+31,HR Manager,Bau,100,126211,3,2016-11-23
+32,Sachbearbeiter,Gesundheitswesen,60,46652,7,2015-05-28
+33,Pflegefachperson,Industrie,40,32703,4,2019-12-27
+34,Finanzanalyst,Versicherung,70,145429,4,2024-08-11
+35,Maschineningenieur,Retail,70,75604,15,2021-06-16
+36,HR Manager,Industrie,90,134559,20,2013-12-08
+37,Finanzanalyst,Industrie,90,99488,25,2015-06-30
+38,Sales Manager,Versicherung,80,101166,10,2022-09-07
+39,Finanzanalyst,Pharma,60,128369,7,2024-12-15
+40,Pflegefachperson,Versicherung,90,104864,17,2024-09-03
+41,Finanzanalyst,Gesundheitswesen,70,150678,19,2024-01-15
+42,Maschineningenieur,Versicherung,60,75780,22,2022-12-03
+43,Sales Manager,Bau,100,200761,21,2015-05-15
+44,Bauleiter,Versicherung,100,127667,10,2018-04-06
+45,Sales Manager,Gesundheitswesen,80,143491,15,2014-05-13
+46,Data Analyst,Versicherung,60,62763,1,2023-08-05
+47,UX Designer,IT,80,100552,19,2021-03-29
+48,Data Analyst,Industrie,60,57906,25,2020-05-09
+49,Maschineningenieur,Bau,40,51744,21,2019-10-29
+50,Sachbearbeiter,Industrie,90,62001,19,2019-11-21
+51,Finanzanalyst,Retail,60,127275,3,2016-11-21
+52,Software Engineer,Bau,50,55752,4,2023-04-05
+53,Bauleiter,Gesundheitswesen,80,85291,24,2016-03-25
+54,Software Engineer,Versicherung,100,147640,20,2026-02-24
+55,Data Analyst,Pharma,100,132240,3,2011-10-02
+56,Jurist,Pharma,90,187037,8,2018-11-18
+57,Data Analyst,Industrie,80,110321,24,2026-05-02
+58,Jurist,Retail,70,155274,14,2015-10-23
+59,Bauleiter,Retail,40,52170,4,2015-01-03
+60,Sales Manager,Finanzen,70,84112,4,2024-12-23
+61,Sales Manager,Versicherung,100,147240,25,2018-05-12
+62,HR Manager,Pharma,50,55018,15,2025-07-16
+63,Bauleiter,Pharma,60,76576,19,2021-01-06
+64,Maschineningenieur,Finanzen,40,47046,14,2016-08-01
+65,Projektleiter,Bau,40,42272,5,2024-06-14
+66,Projektleiter,Bau,100,135483,3,2022-12-26
+67,Projektleiter,Bau,100,152366,8,2014-10-26
+68,HR Manager,Bau,90,135461,10,2016-12-21
+69,Finanzanalyst,Finanzen,100,154381,5,2022-02-23
+70,Finanzanalyst,Finanzen,100,128266,21,2017-01-09
+71,Finanzanalyst,IT,90,162525,13,2019-11-13
+72,Bauleiter,Industrie,90,109443,23,2020-06-30
+73,Sales Manager,Pharma,90,115615,21,2017-12-04
+74,Bauleiter,Retail,70,80140,11,2013-05-28
+75,Projektleiter,Industrie,60,84726,1,2015-04-21
+76,Software Engineer,Finanzen,40,50372,21,2015-12-23
+77,Software Engineer,Finanzen,70,114002,3,2014-11-02
+78,Sachbearbeiter,Pharma,80,58536,18,2017-10-31
+79,Data Analyst,Industrie,70,83615,14,2023-04-04
+80,Pflegefachperson,Finanzen,50,46338,19,2023-11-04
+81,UX Designer,IT,100,125508,10,2020-08-08
+82,Sales Manager,Versicherung,70,81718,15,2012-08-06
+83,Software Engineer,Industrie,70,122960,7,2022-11-20
+84,Pflegefachperson,Versicherung,80,61635,3,2020-02-07
+85,Maschineningenieur,Industrie,100,139444,16,2024-12-30
+86,Bauleiter,Bau,50,67044,24,2018-05-19
+87,Pflegefachperson,Gesundheitswesen,90,93920,17,2024-05-07
+88,Sachbearbeiter,Finanzen,80,65947,20,2011-12-01
+89,Pflegefachperson,Industrie,50,57617,10,2020-11-07
+90,Bauleiter,Versicherung,90,112983,4,2024-06-26
+91,Data Analyst,Finanzen,40,59635,6,2023-09-01
+92,Jurist,Versicherung,50,81957,6,2012-07-08
+93,Sachbearbeiter,Finanzen,40,34507,9,2019-06-23
+94,Pflegefachperson,Bau,60,52284,23,2014-05-18
+95,Bauleiter,Gesundheitswesen,50,69485,17,2016-12-14
+96,Data Analyst,Pharma,40,57668,17,2024-08-13
+97,Maschineningenieur,Versicherung,90,94114,10,2024-06-19
+98,Projektleiter,Retail,60,84349,25,2020-02-16
+99,Projektleiter,Retail,80,87832,3,2020-01-26
+100,Finanzanalyst,IT,50,106605,5,2013-11-28
+101,Pflegefachperson,IT,80,88820,8,2021-12-16
+102,Finanzanalyst,IT,80,106737,22,2023-01-20
+103,UX Designer,Gesundheitswesen,70,93762,15,2012-04-29
+104,Bauleiter,Versicherung,70,92381,10,2019-09-28
+105,HR Manager,Retail,80,107396,17,2018-07-11
+106,Software Engineer,Retail,50,88833,18,2018-09-01
+107,Sales Manager,Pharma,40,48633,21,2018-08-12
+108,Jurist,Retail,80,104669,9,2017-12-12
+109,Maschineningenieur,IT,50,73602,13,2026-01-29
+110,Maschineningenieur,Bau,40,39553,3,2021-06-27
+111,Data Analyst,Industrie,50,65820,18,2025-01-19
+112,Data Analyst,Bau,80,99296,16,2025-01-13
+113,Jurist,Industrie,70,106624,11,2020-11-04
+114,Projektleiter,Finanzen,60,106773,19,2021-08-29
+115,Projektleiter,IT,90,133764,3,2024-08-25
+116,UX Designer,Retail,80,99132,25,2018-09-19
+117,Software Engineer,Pharma,60,74458,24,2019-03-13
+118,Bauleiter,Versicherung,100,102795,24,2020-11-02
+119,Maschineningenieur,Finanzen,60,71658,9,2019-09-21
+120,Maschineningenieur,Finanzen,60,81646,20,2023-01-14
+121,Bauleiter,Pharma,50,54264,18,2015-10-26
+122,Sales Manager,Finanzen,60,58215,25,2025-05-05
+123,Pflegefachperson,Gesundheitswesen,80,85656,14,2017-01-01
+124,Pflegefachperson,IT,70,69141,19,2026-04-16
+125,UX Designer,Finanzen,60,53331,16,2016-07-15
+126,Projektleiter,Retail,70,111277,3,2026-02-03
+127,HR Manager,Versicherung,60,80562,15,2018-10-19
+128,HR Manager,Finanzen,90,113324,1,2021-04-30
+129,Sales Manager,Gesundheitswesen,80,72844,21,2012-05-26
+130,UX Designer,Finanzen,70,100631,21,2017-09-27
+131,Sachbearbeiter,IT,100,92432,11,2017-11-06
+132,Bauleiter,Finanzen,100,98851,3,2012-07-30
+133,Pflegefachperson,Pharma,80,84121,10,2016-07-12
+134,Sachbearbeiter,Finanzen,90,61486,9,2018-06-16
+135,Maschineningenieur,Bau,40,43394,12,2011-08-29
+136,Software Engineer,Retail,50,68589,25,2026-02-09
+137,Maschineningenieur,Versicherung,40,63866,11,2018-10-25
+138,Sachbearbeiter,Industrie,40,30067,17,2012-11-12
+139,Data Analyst,IT,70,70361,4,2020-07-20
+140,Bauleiter,Retail,40,52164,12,2012-10-25
+141,Projektleiter,Industrie,60,67993,12,2020-02-17
+142,Data Analyst,IT,40,57658,13,2026-02-03
+143,HR Manager,Finanzen,60,65688,21,2024-04-21
+144,Finanzanalyst,Versicherung,60,85077,8,2012-08-14
+145,HR Manager,Retail,60,79008,6,2022-06-17
+146,Software Engineer,Gesundheitswesen,80,98943,3,2025-05-25
+147,UX Designer,Pharma,60,76526,5,2019-07-15
+148,Sachbearbeiter,Retail,100,81703,15,2022-10-04
+149,HR Manager,Pharma,60,54100,6,2013-08-09
+150,Pflegefachperson,IT,60,55440,21,2014-05-19
+151,Sales Manager,IT,40,87086,10,2013-06-17
+152,Software Engineer,Gesundheitswesen,50,89324,2,2017-06-16
+153,Pflegefachperson,Gesundheitswesen,100,119298,19,2016-11-05
+154,Data Analyst,Retail,100,117905,20,2018-02-16
+155,Data Analyst,Retail,80,96943,19,2015-03-09
+156,Jurist,Industrie,70,109269,9,2014-04-15
+157,Pflegefachperson,Industrie,60,50963,25,2012-06-13
+158,Data Analyst,Industrie,90,100292,17,2016-06-15
+159,Projektleiter,IT,50,58216,8,2014-06-30
+160,Pflegefachperson,Retail,80,80856,15,2015-05-21
+161,UX Designer,Pharma,40,46628,7,2016-04-03
+162,Software Engineer,Retail,90,123199,22,2023-01-29
+163,Sales Manager,Finanzen,60,64061,9,2011-11-26
+164,Finanzanalyst,IT,100,115704,5,2016-04-04
+165,Data Analyst,Versicherung,60,89796,13,2023-06-17
+166,Software Engineer,IT,80,96909,2,2018-09-24
+167,Sachbearbeiter,Bau,70,52290,13,2019-07-25
+168,UX Designer,IT,90,83789,22,2022-02-01
+169,Jurist,Pharma,80,116829,23,2020-01-13
+170,Software Engineer,IT,90,95998,6,2023-04-13
+171,Projektleiter,Bau,70,99302,13,2021-08-13
+172,Jurist,Versicherung,100,211248,20,2015-06-25
+173,Finanzanalyst,Versicherung,40,76939,16,2012-04-16
+174,Sales Manager,IT,40,44227,13,2020-09-20
+175,Finanzanalyst,Versicherung,40,61151,21,2012-03-08
+176,Software Engineer,Gesundheitswesen,100,154566,23,2025-11-04
+177,Finanzanalyst,Finanzen,100,151497,15,2012-01-02
+178,Maschineningenieur,IT,80,94208,9,2020-08-15
+179,Finanzanalyst,Finanzen,50,98288,17,2018-03-16
+180,Bauleiter,Versicherung,80,127983,10,2013-06-30
+181,Sachbearbeiter,Industrie,50,46741,18,2012-10-20
+182,HR Manager,Versicherung,100,138200,14,2025-05-27
+183,Sales Manager,Finanzen,80,106661,17,2024-09-13
+184,Jurist,Retail,40,65357,2,2012-01-18
+185,Jurist,Industrie,80,180180,21,2016-07-02
+186,Projektleiter,Retail,100,155191,9,2017-03-17
+187,Projektleiter,Retail,70,120229,10,2023-12-08
+188,Projektleiter,IT,70,124673,2,2024-12-12
+189,Maschineningenieur,Pharma,60,97308,25,2020-07-15
+190,Pflegefachperson,Pharma,60,55009,19,2024-01-02
+191,Sales Manager,IT,60,71421,9,2013-06-09
+192,Pflegefachperson,Pharma,90,100254,12,2017-03-27
+193,Sales Manager,Versicherung,80,113605,12,2023-11-22
+194,HR Manager,Pharma,60,70261,19,2015-07-18
+195,Bauleiter,Pharma,80,114555,7,2014-04-24
+196,Bauleiter,Pharma,90,94369,21,2018-08-04
+197,Software Engineer,Finanzen,60,71158,19,2020-09-14
+198,Sales Manager,Bau,70,69316,18,2023-04-13
+199,Projektleiter,Finanzen,80,131555,14,2020-10-24
+200,HR Manager,Pharma,60,86137,4,2019-02-26
+201,Pflegefachperson,Retail,80,95581,24,2023-09-18
+202,Sachbearbeiter,Gesundheitswesen,70,42242,12,2013-05-10
+203,Sachbearbeiter,Retail,70,62137,20,2013-05-30
+204,Projektleiter,IT,60,88075,24,2022-12-17
+205,HR Manager,Gesundheitswesen,70,86956,23,2024-10-21
+206,HR Manager,Bau,100,93584,8,2023-04-06
+207,Projektleiter,Bau,40,47970,20,2021-05-01
+208,Data Analyst,Pharma,90,112704,2,2022-02-16
+209,Maschineningenieur,Bau,70,67272,8,2019-01-24
+210,Bauleiter,Finanzen,70,99754,13,2021-06-08
+211,Finanzanalyst,IT,50,81891,21,2020-07-27
+212,Pflegefachperson,Bau,60,55531,25,2017-11-15
+213,UX Designer,Industrie,70,78068,9,2023-02-03
+214,Jurist,Finanzen,50,108750,17,2021-01-22
+215,UX Designer,Finanzen,40,37441,18,2015-11-21
+216,Sales Manager,Finanzen,80,138169,17,2019-07-18
+217,Finanzanalyst,IT,90,140776,23,2019-01-31
+218,Pflegefachperson,Pharma,70,62059,7,2023-01-21
+219,Software Engineer,IT,50,54202,23,2020-06-25
+220,Sales Manager,IT,60,96718,15,2025-01-27
+221,Finanzanalyst,Retail,90,154830,8,2023-05-04
+222,Sales Manager,Industrie,80,154747,2,2014-12-08
+223,Sachbearbeiter,Pharma,50,38214,19,2017-09-23
+224,Bauleiter,Versicherung,60,95770,20,2025-04-30
+225,Bauleiter,Pharma,90,139692,6,2016-02-11
+226,Finanzanalyst,Gesundheitswesen,40,72714,15,2023-08-25
+227,Bauleiter,IT,100,99225,18,2019-11-21
+228,Projektleiter,Bau,90,145035,12,2024-03-03
+229,Sachbearbeiter,Bau,80,49816,7,2024-02-29
+230,Maschineningenieur,Finanzen,40,51099,6,2013-03-05
+231,UX Designer,Industrie,40,44918,11,2012-08-31
+232,Sales Manager,IT,90,133566,17,2025-09-05
+233,Sales Manager,Versicherung,80,113452,12,2020-06-24
+234,Bauleiter,Versicherung,80,111197,10,2013-08-27
+235,Bauleiter,Gesundheitswesen,90,111511,2,2021-11-21
+236,Data Analyst,Retail,90,115604,18,2023-09-11
+237,Maschineningenieur,Industrie,60,84948,18,2019-10-24
+238,Bauleiter,Retail,90,107828,5,2017-04-15
+239,Jurist,Finanzen,90,192868,5,2012-09-25
+240,Sales Manager,IT,100,124978,16,2025-10-01
+241,HR Manager,Gesundheitswesen,40,36786,14,2018-09-06
+242,Sachbearbeiter,Bau,70,53272,7,2014-09-03
+243,Pflegefachperson,Industrie,70,80651,13,2021-11-13
+244,Software Engineer,Finanzen,70,120661,13,2016-09-05
+245,Bauleiter,Finanzen,50,65189,16,2021-01-02
+246,UX Designer,Versicherung,50,50518,2,2015-06-15
+247,Software Engineer,Pharma,70,82854,10,2018-04-22
+248,Sachbearbeiter,Industrie,60,56799,14,2012-11-20
+249,Sales Manager,Versicherung,80,123642,2,2018-08-26
+250,Software Engineer,Gesundheitswesen,90,118721,7,2018-08-20
+251,Finanzanalyst,IT,90,182483,3,2023-02-05
+252,Bauleiter,Retail,90,94783,7,2012-08-03
+253,Bauleiter,IT,100,93268,7,2017-08-09
+254,Sachbearbeiter,Pharma,40,24589,18,2019-03-04
+255,Pflegefachperson,Finanzen,50,38354,2,2023-07-09
+256,Projektleiter,IT,40,56644,19,2022-02-23
+257,Data Analyst,Versicherung,60,78926,16,2016-11-01
+258,Finanzanalyst,Finanzen,60,124294,16,2013-05-11
+259,HR Manager,Retail,100,134852,3,2015-02-19
+260,Bauleiter,Versicherung,90,81021,14,2022-10-21
+261,UX Designer,Retail,100,138788,13,2023-07-16
+262,Projektleiter,Finanzen,70,67564,5,2021-10-12
+263,UX Designer,Finanzen,70,87234,2,2011-07-15
+264,Sachbearbeiter,Bau,40,26050,22,2021-01-05
+265,Bauleiter,IT,70,93416,19,2012-04-29
+266,Sachbearbeiter,IT,60,36558,9,2018-01-18
+267,Maschineningenieur,IT,60,75712,15,2019-12-29
+268,Finanzanalyst,Gesundheitswesen,70,96496,20,2016-11-17
+269,Pflegefachperson,Pharma,60,70873,12,2020-12-20
+270,Pflegefachperson,Gesundheitswesen,40,43574,4,2011-09-28
+271,Finanzanalyst,Pharma,90,109106,3,2023-09-16
+272,Sales Manager,Versicherung,40,76302,2,2014-12-15
+273,Sachbearbeiter,Bau,70,42151,13,2026-02-10
+274,Bauleiter,Bau,40,46649,24,2012-10-03
+275,HR Manager,IT,90,126860,22,2018-09-28
+276,Data Analyst,IT,90,105336,4,2012-11-02
+277,Data Analyst,Gesundheitswesen,70,96728,23,2012-11-09
+278,Finanzanalyst,Gesundheitswesen,80,131061,7,2013-01-13
+279,Maschineningenieur,Versicherung,70,74575,25,2020-08-02
+280,Pflegefachperson,IT,50,51302,2,2016-10-01
+281,Maschineningenieur,Finanzen,50,68862,13,2025-05-02
+282,UX Designer,Versicherung,40,52869,4,2025-07-05
+283,Sales Manager,Bau,50,55275,11,2020-07-23
+284,UX Designer,Finanzen,80,69762,3,2021-10-20
+285,HR Manager,Finanzen,60,61135,6,2023-05-15
+286,Sachbearbeiter,IT,100,95549,17,2016-06-29
+287,Jurist,Bau,70,135449,25,2019-01-20
+288,Pflegefachperson,Retail,60,59789,7,2018-12-17
+289,Jurist,Finanzen,60,111032,15,2025-11-24
+290,Data Analyst,IT,100,139719,6,2019-11-12
+291,Bauleiter,Industrie,100,111805,15,2025-01-17
+292,HR Manager,IT,90,98451,24,2014-05-29
+293,Finanzanalyst,Industrie,100,162781,2,2025-12-13
+294,Pflegefachperson,Gesundheitswesen,40,45748,12,2021-08-29
+295,Pflegefachperson,Bau,60,50481,17,2012-03-21
+296,Data Analyst,IT,70,101448,16,2019-09-29
+297,Software Engineer,Finanzen,60,80605,19,2022-03-18
+298,Pflegefachperson,Versicherung,90,78308,10,2016-11-21
+299,Maschineningenieur,Gesundheitswesen,100,136446,17,2020-07-28
+300,Jurist,Bau,50,112108,16,2024-11-20
+301,Sales Manager,Versicherung,80,173723,3,2019-11-13
+302,Software Engineer,Gesundheitswesen,40,39719,6,2021-02-12
+303,Sales Manager,Industrie,80,88835,24,2017-06-20
+304,Bauleiter,Finanzen,70,101910,18,2025-12-09
+305,Finanzanalyst,Pharma,70,120821,22,2011-10-23
+306,Maschineningenieur,Pharma,40,48437,25,2017-11-30
+307,Projektleiter,Retail,70,124152,13,2016-10-30
+308,UX Designer,Pharma,100,117129,14,2016-03-18
+309,Bauleiter,Retail,70,90804,16,2018-02-22
+310,Jurist,Industrie,70,89635,12,2018-08-31
+311,Projektleiter,Gesundheitswesen,50,58626,9,2023-07-20
+312,UX Designer,IT,60,78165,14,2023-01-05
+313,Maschineningenieur,Gesundheitswesen,60,64449,17,2015-03-12
+314,HR Manager,Retail,70,104583,19,2020-03-05
+315,Bauleiter,Versicherung,50,71886,4,2023-10-24
+316,HR Manager,Industrie,70,103014,2,2012-11-26
+317,Data Analyst,Retail,60,66606,11,2011-12-21
+318,Jurist,Gesundheitswesen,50,76666,12,2020-08-21
+319,Pflegefachperson,IT,90,103737,9,2025-06-07
+320,Pflegefachperson,Gesundheitswesen,100,112233,6,2023-08-17
+321,Bauleiter,Retail,80,74867,8,2023-07-27
+322,Bauleiter,Versicherung,70,81227,3,2014-11-19
+323,Sachbearbeiter,Finanzen,40,37784,9,2024-07-22
+324,Jurist,Finanzen,70,122381,3,2020-06-16
+325,Bauleiter,Retail,90,111225,1,2021-12-08
+326,Pflegefachperson,Retail,90,97237,2,2013-07-03
+327,Sachbearbeiter,Bau,70,56475,7,2020-11-27
+328,Sales Manager,IT,70,127771,3,2021-04-24
+329,Sales Manager,Industrie,80,133188,11,2013-04-08
+330,Finanzanalyst,Versicherung,70,127101,18,2020-02-10
+331,Pflegefachperson,Finanzen,50,40339,12,2025-09-06
+332,Finanzanalyst,Versicherung,70,103785,16,2020-02-18
+333,Jurist,Pharma,100,230302,4,2014-05-19
+334,Bauleiter,Industrie,80,120536,20,2018-06-29
+335,HR Manager,Finanzen,40,41574,20,2024-12-15
+336,Pflegefachperson,Pharma,50,35520,1,2012-11-05
+337,Sachbearbeiter,Versicherung,70,44335,24,2012-06-13
+338,Jurist,Versicherung,80,151396,15,2012-07-18
+339,Pflegefachperson,Gesundheitswesen,70,59078,10,2012-08-03
+340,Sales Manager,Finanzen,50,77255,3,2018-05-31
+341,UX Designer,Gesundheitswesen,40,41012,4,2018-04-16
+342,Maschineningenieur,Pharma,50,76435,15,2018-07-17
+343,Finanzanalyst,Bau,60,109501,1,2019-07-01
+344,Sachbearbeiter,Pharma,40,27956,14,2019-10-06
+345,Sachbearbeiter,Bau,60,57407,10,2016-05-30
+346,Jurist,Finanzen,80,150665,24,2012-04-29
+347,Projektleiter,Bau,40,55772,23,2020-10-07
+348,Data Analyst,Bau,80,78095,22,2012-08-06
+349,Pflegefachperson,Versicherung,90,106157,15,2016-10-11
+350,Maschineningenieur,Bau,40,40111,5,2018-02-20
+351,Pflegefachperson,Gesundheitswesen,50,37213,25,2025-02-28
+352,Sales Manager,Bau,40,68694,18,2023-11-02
+353,HR Manager,IT,80,121894,13,2024-02-28
+354,Bauleiter,Retail,50,70035,2,2017-09-20
+355,Sachbearbeiter,IT,60,45421,2,2017-03-31
+356,Data Analyst,Versicherung,40,50607,12,2016-05-12
+357,Maschineningenieur,Versicherung,40,63280,2,2024-09-22
+358,Pflegefachperson,Pharma,70,68816,1,2013-11-21
+359,UX Designer,Versicherung,40,36127,13,2020-04-17
+360,Data Analyst,Versicherung,60,68481,1,2017-03-28
+361,Data Analyst,Industrie,80,93900,23,2022-12-14
+362,Software Engineer,Retail,90,91617,11,2015-01-02
+363,Bauleiter,Pharma,80,116440,9,2013-10-22
+364,HR Manager,Bau,100,158114,5,2022-05-19
+365,Pflegefachperson,Retail,40,35730,21,2023-04-03
+366,UX Designer,Gesundheitswesen,40,50708,2,2020-05-04
+367,Maschineningenieur,Bau,60,83966,14,2013-11-20
+368,Projektleiter,Gesundheitswesen,100,170813,16,2016-08-02
+369,Sachbearbeiter,Gesundheitswesen,70,50451,15,2021-09-02
+370,Software Engineer,IT,50,60464,13,2018-07-31
+371,Pflegefachperson,Versicherung,50,52266,2,2020-04-02
+372,Sales Manager,Bau,50,97141,16,2015-06-22
+373,Sachbearbeiter,Bau,80,58642,12,2015-10-20
+374,Sales Manager,Pharma,60,81648,15,2020-03-01
+375,Bauleiter,Pharma,60,71910,7,2025-12-23
+376,Software Engineer,Industrie,60,84259,24,2015-06-03
+377,Bauleiter,Gesundheitswesen,70,65761,11,2014-12-19
+378,Sales Manager,Finanzen,60,116847,4,2021-01-24
+379,Software Engineer,Finanzen,50,52054,4,2015-04-19
+380,Finanzanalyst,Pharma,70,135112,15,2022-11-02
+381,Maschineningenieur,Bau,80,123847,13,2014-09-01
+382,Jurist,IT,50,105747,14,2019-03-27
+383,HR Manager,IT,70,105379,15,2012-05-25
+384,Sachbearbeiter,Versicherung,50,47519,12,2021-07-26
+385,Projektleiter,Gesundheitswesen,70,71309,7,2025-09-14
+386,Software Engineer,IT,60,72111,18,2018-06-22
+387,HR Manager,Gesundheitswesen,40,36786,10,2022-06-28
+388,Pflegefachperson,Pharma,80,91540,17,2025-08-21
+389,UX Designer,Pharma,60,70610,24,2016-12-03
+390,Bauleiter,IT,80,74484,20,2013-10-26
+391,Sales Manager,Versicherung,90,183613,24,2020-02-06
+392,Sachbearbeiter,Gesundheitswesen,50,32621,25,2012-10-19
+393,Jurist,Retail,100,192463,23,2019-05-14
+394,HR Manager,IT,40,55621,7,2012-07-13
+395,Maschineningenieur,Versicherung,90,89569,20,2022-12-15
+396,Data Analyst,Retail,70,104188,25,2018-03-08
+397,Sales Manager,Industrie,90,169271,6,2015-06-29
+398,Sales Manager,Pharma,70,82503,9,2019-06-05
+399,UX Designer,Gesundheitswesen,70,90021,16,2022-05-07
+400,Bauleiter,Bau,90,128005,20,2021-06-19
+401,Sachbearbeiter,Gesundheitswesen,60,36653,8,2019-08-31
+402,Bauleiter,Retail,70,80898,6,2013-02-19
+403,Projektleiter,Gesundheitswesen,50,72632,18,2016-09-02
+404,HR Manager,Pharma,90,126020,19,2015-04-27
+405,Jurist,IT,60,97137,10,2015-07-17
+406,Sales Manager,Industrie,50,65980,24,2024-07-28
+407,Sales Manager,Versicherung,90,197122,4,2025-06-03
+408,Sachbearbeiter,Industrie,70,50975,13,2024-05-03
+409,Software Engineer,Pharma,60,94266,21,2023-03-23
+410,Finanzanalyst,Retail,60,66498,19,2023-05-20
+411,Projektleiter,Retail,60,100729,25,2018-10-31
+412,Sales Manager,Finanzen,40,77969,12,2014-08-21
+413,HR Manager,Industrie,40,51382,2,2017-02-26
+414,HR Manager,Finanzen,80,109650,23,2016-01-01
+415,Data Analyst,Industrie,90,87861,22,2014-03-29
+416,Projektleiter,Pharma,60,86776,4,2024-01-16
+417,Maschineningenieur,Industrie,80,131750,5,2023-08-13
+418,Software Engineer,Bau,90,114885,10,2022-11-26
+419,Bauleiter,Pharma,90,100476,16,2019-03-10
+420,Jurist,IT,80,169672,6,2018-08-07
+421,Maschineningenieur,Bau,40,51094,7,2022-02-18
+422,Finanzanalyst,Versicherung,40,45618,14,2017-02-23
+423,Sales Manager,Industrie,50,69530,4,2014-07-14
+424,Sales Manager,Retail,70,65899,17,2024-10-12
+425,Data Analyst,IT,50,53776,24,2015-05-27
+426,Data Analyst,Industrie,90,115801,14,2015-08-06
+427,Data Analyst,IT,70,83582,11,2015-07-07
+428,Software Engineer,IT,90,123441,11,2016-12-04
+429,Sachbearbeiter,Bau,50,36240,24,2020-03-12
+430,Software Engineer,Finanzen,50,74907,20,2020-09-17
+431,Pflegefachperson,IT,80,94834,7,2018-02-22
+432,UX Designer,Gesundheitswesen,80,81569,2,2013-02-04
+433,Pflegefachperson,IT,90,94531,20,2025-07-20
+434,Projektleiter,IT,100,145067,5,2024-05-13
+435,Bauleiter,Finanzen,70,79158,3,2024-02-07
+436,HR Manager,Versicherung,90,143140,1,2025-12-02
+437,Sachbearbeiter,Pharma,50,47810,17,2025-02-20
+438,HR Manager,IT,50,68154,4,2012-08-27
+439,UX Designer,Finanzen,50,62972,1,2012-06-14
+440,Bauleiter,Finanzen,70,73382,20,2017-06-08
+441,Jurist,Retail,80,136330,5,2018-01-27
+442,Bauleiter,Finanzen,60,70572,22,2023-03-11
+443,Software Engineer,Finanzen,60,68110,10,2023-03-02
+444,Projektleiter,IT,80,103058,5,2023-04-21
+445,HR Manager,Retail,50,50059,20,2017-02-07
+446,Pflegefachperson,Finanzen,80,95663,2,2023-12-03
+447,Pflegefachperson,IT,60,49662,16,2018-11-15
+448,Sales Manager,Versicherung,40,85954,12,2025-06-27
+449,HR Manager,Gesundheitswesen,80,87980,9,2019-04-28
+450,Data Analyst,Finanzen,90,91713,12,2021-07-11
+451,Projektleiter,Retail,80,134804,13,2016-04-30
+452,Bauleiter,Versicherung,70,70873,4,2025-01-03
+453,Maschineningenieur,Finanzen,70,101390,9,2026-05-11
+454,Data Analyst,Finanzen,40,44618,7,2020-04-18
+455,Finanzanalyst,Finanzen,90,175255,9,2014-09-08
+456,Projektleiter,Versicherung,90,105093,12,2012-07-17
+457,Pflegefachperson,Pharma,90,87205,13,2012-03-29
+458,Projektleiter,Industrie,90,134016,14,2012-03-12
+459,Maschineningenieur,Retail,40,58751,22,2025-12-23
+460,Software Engineer,IT,40,46041,5,2018-04-18
+461,Jurist,Bau,80,148874,21,2014-07-02
+462,UX Designer,Retail,40,41783,21,2012-11-16
+463,UX Designer,Pharma,40,57926,7,2024-02-09
+464,Projektleiter,Versicherung,100,175478,18,2020-07-08
+465,HR Manager,Bau,40,43264,14,2013-08-31
+466,Sales Manager,Gesundheitswesen,90,127339,14,2023-05-25
+467,Bauleiter,Pharma,70,100599,7,2022-02-07
+468,Bauleiter,Pharma,40,60398,23,2023-01-18
+469,Projektleiter,Retail,60,66759,15,2014-01-23
+470,Software Engineer,IT,60,107707,21,2026-01-25
+471,Software Engineer,Gesundheitswesen,40,38544,9,2013-03-27
+472,Pflegefachperson,Finanzen,50,45463,25,2013-04-18
+473,Pflegefachperson,Industrie,90,101897,19,2023-07-28
+474,Projektleiter,Finanzen,100,147455,5,2022-01-07
+475,HR Manager,IT,70,106694,15,2020-07-09
+476,Software Engineer,Retail,90,135350,2,2023-02-27
+477,HR Manager,Pharma,80,114420,6,2018-12-12
+478,Sachbearbeiter,Gesundheitswesen,50,44022,20,2015-06-24
+479,Finanzanalyst,Gesundheitswesen,70,90945,18,2015-09-22
+480,Pflegefachperson,Bau,70,81578,16,2017-10-14
+481,Bauleiter,Gesundheitswesen,90,93731,9,2020-01-27
+482,UX Designer,Bau,100,117697,16,2016-03-28
+483,Software Engineer,Versicherung,40,49394,3,2012-03-23
+484,Jurist,Pharma,60,105231,22,2012-07-10
+485,Jurist,Gesundheitswesen,60,101566,15,2013-11-12
+486,Software Engineer,IT,100,150170,15,2025-08-18
+487,Software Engineer,Industrie,100,109031,22,2022-01-12
+488,Sachbearbeiter,IT,100,76200,10,2011-06-12
+489,HR Manager,Industrie,100,106147,12,2018-09-29
+490,Sachbearbeiter,Pharma,70,68632,5,2017-10-04
+491,Pflegefachperson,IT,50,41906,9,2016-06-18
+492,Projektleiter,Versicherung,70,78374,8,2016-06-26
+493,Finanzanalyst,Versicherung,60,130186,20,2014-08-22
+494,Data Analyst,Versicherung,70,104864,7,2025-01-30
+495,Bauleiter,Retail,80,127380,14,2025-03-07
+496,Sales Manager,Industrie,40,48088,17,2016-09-18
+497,Maschineningenieur,Pharma,80,120187,8,2014-10-03
+498,Bauleiter,Pharma,70,106927,1,2019-11-05
+499,Maschineningenieur,Retail,90,136191,7,2015-06-19
+500,HR Manager,Gesundheitswesen,40,57656,10,2022-06-25
